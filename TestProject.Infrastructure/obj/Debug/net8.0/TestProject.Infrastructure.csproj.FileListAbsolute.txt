@@ -17,3 +17,4 @@
 /Users/jasmineadhikari/RiderProjects/TestProject/TestProject.Infrastructure/obj/Debug/net8.0/TestProject.Infrastructure.pdb
 /Users/jasmineadhikari/RiderProjects/TestProject/TestProject.Infrastructure/obj/Debug/net8.0/TestProject.Infrastructure.genruntimeconfig.cache
 /Users/jasmineadhikari/RiderProjects/TestProject/TestProject.Infrastructure/obj/Debug/net8.0/ref/TestProject.Infrastructure.dll
+/Users/jasmineadhikari/RiderProjects/TestProject/TestProject.Infrastructure/obj/Debug/net8.0/TestProject.Infrastructure.sourcelink.json

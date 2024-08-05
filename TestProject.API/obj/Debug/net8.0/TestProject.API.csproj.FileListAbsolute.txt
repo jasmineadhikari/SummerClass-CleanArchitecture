@@ -108,3 +108,4 @@
 /Users/jasmineadhikari/RiderProjects/TestProject/TestProject.API/bin/Debug/net8.0/TestProject.Application.pdb
 /Users/jasmineadhikari/RiderProjects/TestProject/TestProject.API/bin/Debug/net8.0/TestProject.Infrastructure.pdb
 /Users/jasmineadhikari/RiderProjects/TestProject/TestProject.API/bin/Debug/net8.0/TestProject.Domain.pdb
+/Users/jasmineadhikari/RiderProjects/TestProject/TestProject.API/obj/Debug/net8.0/TestProject.API.sourcelink.json

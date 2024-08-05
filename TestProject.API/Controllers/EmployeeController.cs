@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using TestProject.Application.Common.Dto;
 using TestProject.Application.Common.Interface;
+using TestProject.Domain.Entities;
 
 namespace TestProject.API.Controllers;
 
@@ -18,6 +19,14 @@ public class EmployeeController : ControllerBase
     public async Task<List<EmployeeResponseDto>> GetListOfEmployee()
     {
         var result = await _employeeService.GetEmployeeName();
+
+        return result;
+    }
+    
+    [HttpGet("/api/employee/getById")]
+    public async Task<EmployeeResponseDto> GetEmployeeById(Guid id)
+    {
+        var result = await _employeeService.GetEmployeeById(id);
 
         return result;
     }

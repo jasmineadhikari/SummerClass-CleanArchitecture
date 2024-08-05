@@ -13,3 +13,4 @@
 /Users/jasmineadhikari/RiderProjects/TestProject/TestProject.Application/obj/Debug/net8.0/refint/TestProject.Application.dll
 /Users/jasmineadhikari/RiderProjects/TestProject/TestProject.Application/obj/Debug/net8.0/TestProject.Application.pdb
 /Users/jasmineadhikari/RiderProjects/TestProject/TestProject.Application/obj/Debug/net8.0/ref/TestProject.Application.dll
+/Users/jasmineadhikari/RiderProjects/TestProject/TestProject.Application/obj/Debug/net8.0/TestProject.Application.sourcelink.json

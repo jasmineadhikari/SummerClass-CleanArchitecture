@@ -25,4 +25,21 @@ public class EmployeeService : IEmployeeService
 
         return result;
     }
+
+    public async Task<EmployeeResponseDto> GetEmployeeById(Guid id)
+    {
+        var employeeData = await _dbContext.Employee.FirstOrDefaultAsync(x => x.Id == id);
+
+        var result = new EmployeeResponseDto();
+        if (employeeData != null)
+        {
+             result = new EmployeeResponseDto
+            {
+                FirstName = employeeData.FirstName,
+                LastName = employeeData.LastName,
+                Salary = employeeData.Salary
+            };
+        }
+        return result;
+    }
 }
