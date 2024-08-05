@@ -1,0 +1,15 @@
+/Users/jasmineadhikari/RiderProjects/TestProject/TestProject.Application/bin/Debug/net8.0/TestProject.Application.deps.json
+/Users/jasmineadhikari/RiderProjects/TestProject/TestProject.Application/bin/Debug/net8.0/TestProject.Application.dll
+/Users/jasmineadhikari/RiderProjects/TestProject/TestProject.Application/bin/Debug/net8.0/TestProject.Application.pdb
+/Users/jasmineadhikari/RiderProjects/TestProject/TestProject.Application/bin/Debug/net8.0/TestProject.Domain.dll
+/Users/jasmineadhikari/RiderProjects/TestProject/TestProject.Application/bin/Debug/net8.0/TestProject.Domain.pdb
+/Users/jasmineadhikari/RiderProjects/TestProject/TestProject.Application/obj/Debug/net8.0/TestProject.Application.csproj.AssemblyReference.cache
+/Users/jasmineadhikari/RiderProjects/TestProject/TestProject.Application/obj/Debug/net8.0/TestProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jasmineadhikari/RiderProjects/TestProject/TestProject.Application/obj/Debug/net8.0/TestProject.Application.AssemblyInfoInputs.cache
+/Users/jasmineadhikari/RiderProjects/TestProject/TestProject.Application/obj/Debug/net8.0/TestProject.Application.AssemblyInfo.cs
+/Users/jasmineadhikari/RiderProjects/TestProject/TestProject.Application/obj/Debug/net8.0/TestProject.Application.csproj.CoreCompileInputs.cache
+/Users/jasmineadhikari/RiderProjects/TestProject/TestProject.Application/obj/Debug/net8.0/TestProj.1B01BB47.Up2Date
+/Users/jasmineadhikari/RiderProjects/TestProject/TestProject.Application/obj/Debug/net8.0/TestProject.Application.dll
+/Users/jasmineadhikari/RiderProjects/TestProject/TestProject.Application/obj/Debug/net8.0/refint/TestProject.Application.dll
+/Users/jasmineadhikari/RiderProjects/TestProject/TestProject.Application/obj/Debug/net8.0/TestProject.Application.pdb
+/Users/jasmineadhikari/RiderProjects/TestProject/TestProject.Application/obj/Debug/net8.0/ref/TestProject.Application.dll

@@ -1,0 +1,12 @@
+/Users/jasmineadhikari/RiderProjects/TestProject/TestProject.Domain/bin/Debug/net8.0/TestProject.Domain.deps.json
+/Users/jasmineadhikari/RiderProjects/TestProject/TestProject.Domain/bin/Debug/net8.0/TestProject.Domain.dll
+/Users/jasmineadhikari/RiderProjects/TestProject/TestProject.Domain/bin/Debug/net8.0/TestProject.Domain.pdb
+/Users/jasmineadhikari/RiderProjects/TestProject/TestProject.Domain/obj/Debug/net8.0/TestProject.Domain.csproj.AssemblyReference.cache
+/Users/jasmineadhikari/RiderProjects/TestProject/TestProject.Domain/obj/Debug/net8.0/TestProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jasmineadhikari/RiderProjects/TestProject/TestProject.Domain/obj/Debug/net8.0/TestProject.Domain.AssemblyInfoInputs.cache
+/Users/jasmineadhikari/RiderProjects/TestProject/TestProject.Domain/obj/Debug/net8.0/TestProject.Domain.AssemblyInfo.cs
+/Users/jasmineadhikari/RiderProjects/TestProject/TestProject.Domain/obj/Debug/net8.0/TestProject.Domain.csproj.CoreCompileInputs.cache
+/Users/jasmineadhikari/RiderProjects/TestProject/TestProject.Domain/obj/Debug/net8.0/TestProject.Domain.dll
+/Users/jasmineadhikari/RiderProjects/TestProject/TestProject.Domain/obj/Debug/net8.0/refint/TestProject.Domain.dll
+/Users/jasmineadhikari/RiderProjects/TestProject/TestProject.Domain/obj/Debug/net8.0/TestProject.Domain.pdb
+/Users/jasmineadhikari/RiderProjects/TestProject/TestProject.Domain/obj/Debug/net8.0/ref/TestProject.Domain.dll
